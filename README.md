@@ -8,8 +8,8 @@ This repo is for tracking my progress and improvement in:
 
 ## Folder structure
 
-Solved problem folders structure: `[Order number]. [Platform][Problem ID] [Diffficulty] (Tags)`
-- **Order number:** The order in which it was solved.
+Solved problems folders structure: `[Order number]. [Platform][Problem ID] [Diffficulty] (Tags)`
+- **Order number:** The order in which problems were solved.
 - **Platform:** Codeforces, Leetcode, etc.
 - **Problem ID:** Identifier of a problem.
 - **Difficulty:** General difficulty - Easy, Medium, Hard.
